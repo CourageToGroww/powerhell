@@ -94,3 +94,6 @@ dist/
 build/
 bin/
 out/
+
+# Generated documentation (excluding main README.md)
+docs/generated/
